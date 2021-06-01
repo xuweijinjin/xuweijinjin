@@ -1,3 +1,6 @@
+领域：
+C#: WinForm
+Android
 - 👋 Hi, I’m @xuweijinjin
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
